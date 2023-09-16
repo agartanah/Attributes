@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Attributes</string>
+    <string name="buttonRedText">КРАСНЫЙ ТЕКСТ</string>
+    <string name="buttonBlackText">ЧЁРНЫЙ ТЕКСТ</string>
+    <string name="buttonSize8SP">РАЗМЕР - 8SP</string>
+    <string name="buttonSize24SP">РАЗМЕР - 24SP</string>
+    <string name="buttonWhiteBackGround">БЕЛЫЙ ФОН</string>
+    <string name="buttonYellowBackGround">ЖЁЛТЫЙ ФОН</string>
+</resources>
